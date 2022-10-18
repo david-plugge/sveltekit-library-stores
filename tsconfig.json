@@ -8,9 +8,7 @@
 		"resolveJsonModule": true,
 		"skipLibCheck": true,
 		"sourceMap": true,
-		"strict": true,
-		// must be set for @babichjacob/svelte-localstorage ts support
-		"maxNodeModuleJsDepth": 1
+		"strict": true
 	}
 	// Path aliases are handled by https://kit.svelte.dev/docs/configuration#alias
 	//
