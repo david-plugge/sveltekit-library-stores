@@ -13,4 +13,4 @@ function derivedFromPage(fn) {
 	};
 }
 
-export const user = derivedFromPage(($page) => $page.data.user);
+export const pageData = derivedFromPage(($page) => $page.data);

@@ -1,7 +1,7 @@
 {
-	"name": "custom-package",
+	"name": "@davidplugge/sveltekit-library-page-store",
 	"type": "module",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"exports": {
 		"./package.json": "./package.json",
 		".": "./index.js"
