@@ -1,0 +1,13 @@
+{
+	"name": "custom-package",
+	"type": "module",
+	"version": "0.0.1",
+	"exports": {
+		"./package.json": "./package.json",
+		".": "./index.js"
+	},
+	"peerDependencies": {
+		"svelte": "^3.52.0",
+		"@sveltejs/kit": "next"
+	}
+}
